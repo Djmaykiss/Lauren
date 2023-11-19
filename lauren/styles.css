@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#content {
+    margin-top: 20px;
+    text-align: center;
+}
+
+p {
+    color: #555;
+}
+
+.graduate-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+button a {
+    display: inline-block;
+    background-color: #25D366; /* Color de WhatsApp */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none; /* Quitar subrayado */
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #128C7E;
+}
