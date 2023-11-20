@@ -21,6 +21,10 @@ h1 {
     color: #333;
 }
 
+h2 {
+    color: #777;
+    }
+
 #content {
     margin-top: 20px;
     text-align: center;
@@ -43,9 +47,8 @@ button a {
     color: #fff;
     padding: 10px 20px;
     border: none;
-    border-radius: 5px;
-    text-decoration: none; /* Quitar subrayado */
     cursor: pointer;
+    text-decoration: none; /* Quitar subrayado */
 }
 
 button:hover {
